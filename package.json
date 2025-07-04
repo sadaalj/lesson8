@@ -17,11 +17,6 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/sadaalj/lesson8/issues"
-  },
-  "homepage": "https://github.com/sadaalj/lesson8#readme",
-  "description": "",
   "devDependencies": {
     "jest": "^30.0.4"
   }
