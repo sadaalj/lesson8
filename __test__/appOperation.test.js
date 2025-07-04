@@ -9,3 +9,6 @@ test("adding two valeus", () => {
 test("subtracting two values", () => {
     expect(appOperations.subtract(10, 5)).toBe(5);
 });
+test("dividing two values", () => {
+    expect(appOperations.divide(10, 2)).toBe(5);
+});
