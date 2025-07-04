@@ -11,4 +11,4 @@ test("subtracting two values", () => {
 });
 test("dividing two values", () => {
     expect(appOperations.divide(10, 2)).toBe(5);
-});gh release createImageBitmap
+});
