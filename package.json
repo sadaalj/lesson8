@@ -18,6 +18,6 @@
   "homepage": "https://github.com/sadaalj/lesson8#readme",
   "description": "",
   "devDependencies": {
-    "jest": "^30.0.3"
+    "jest": "^30.0.4"
   }
 }
